@@ -1,3 +1,9 @@
+conmon (2.0.8~4) testing; urgency=medium
+
+  * rebuild for testing gitlab+obs
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Sun, 22 Dec 2019 13:36:54 +0000
+
 conmon (2.0.8~3) stable; urgency=medium
 
   * update LDFLAGS for aarch64 builds 
